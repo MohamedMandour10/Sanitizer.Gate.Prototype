@@ -35,3 +35,4 @@ Connect the components as shown in the schematic.
 Upload the code to the Arduino board.
 Power the Arduino board.
 The model should now be running.
+![circuit diagram](https://ibb.co/cJk0KWY)
