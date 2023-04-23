@@ -1,3 +1,4 @@
+
 # Optics based Sensitizer Gate model
 This project is an implementation of an optics-based model for a sensitizer gate. The project uses the following components:
 
@@ -11,7 +12,7 @@ This project is an implementation of an optics-based model for a sensitizer gate
 ## Description
 The model is based on the principle of the Optics-based Sensitizer Gate, which uses light to control the flow of fluid or gas. The gate is composed of a transparent channel and two photosensitive elements. When light is shone on one of the photosensitive elements, it causes a reaction that alters the properties of the gate and allows fluid or gas to flow through. The Optics-based Sensitizer Gate has applications in fields such as microfluidics, microreactors, and microvalves.
 
-The project aims to demonstrate the principle of the Optics-based Sensitizer Gate using a simplified model. The model consists of a transparent channel (represented by a tube), a light source (an LED), two mirrors to direct the light to the photosensitive elements, an LDR to detect the light, a buzzer to indicate the flow of fluid or gas, and a servo motor to control the gate.
+The project aims to demonstrate the principle of the Optics-based Sensitizer Gate using a simplified model. The model consists of a  light source (a lazer), four mirrors to direct the light to the photosensitive elements, an LDR to detect the light, a buzzer to indicate the flow of fluid or gas, and a servo motor to control the gate.
 
 ## Functionality
 The model works as follows:
@@ -27,6 +28,10 @@ The repository contains the following files:
 README.md: this file
 code.ino: the code to run on the Arduino board
 schematic.png: the schematic of the model
+report: full details about the prototype
+
+## Circuit diagram
+![circuit diagram](https://ibb.co/6th75wV)
 
 ## Usage
 To use the model, follow these steps:
@@ -35,4 +40,4 @@ Connect the components as shown in the schematic.
 Upload the code to the Arduino board.
 Power the Arduino board.
 The model should now be running.
-![circuit diagram](https://ibb.co/cJk0KWY)
+
