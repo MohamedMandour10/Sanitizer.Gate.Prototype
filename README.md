@@ -32,7 +32,7 @@ The repository contains the following files:
 * circuit diagram
 
 ## Circuit diagram
-![circuit diagram](https://ibb.co/6th75wV)
+![circuit diagram](https://i.ibb.co/hd5Jv9h/circuit-diagram.png)
 
 ## Usage
 To use the model, follow these steps:
