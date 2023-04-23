@@ -25,10 +25,11 @@ The servo motor is activated to control the gate.
 Repository Contents
 The repository contains the following files:
 
-README.md: this file
-code.ino: the code to run on the Arduino board
-schematic.png: the schematic of the model
-report: full details about the prototype
+* README.md: this file
+* code.ino: the code to run on the Arduino board
+* schematic.png: the schematic of the model
+* report: full details about the prototype
+* circuit diagram
 
 ## Circuit diagram
 ![circuit diagram](https://ibb.co/6th75wV)
